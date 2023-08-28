@@ -1,6 +1,9 @@
 # Irrigatore-Automatico
 Progetto estivo estate 2023
-Nella cartella Progettoestivo.zip trovate tutti i file html, css, js del sito in se.
+
+
+Struttura:<br>
+Nella cartella Progettoestivo.zip trovate tutti i file html, css, js del sito in se
 Nella cartella Php.zip trovate tutti i file php
 Nella cartella htdocs trovate la struttura completa del server
 Nella cartella Java.zip trovate la servlet per la lettura dei dati
