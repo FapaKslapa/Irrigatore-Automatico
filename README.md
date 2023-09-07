@@ -7,9 +7,7 @@ Team: Stefano Marocco, Ciro Andrea Strazzullo<br>
 Struttura:<br>
   Directory Progettoestivo.zip: File html, css e js.
   Directory Php.zip: File php di api e servizi.
-  Directory htdocs: Struttura completa del server.
-  Directory Java.zip: Servlet per la lettura dei dati.
-  Directory MySQL: File del DB vacanza.
-  Directory Pyton.zip: Convertitore Link-QRcode.
-  Directory Documentazioni: Documentazioni del progetto.
-  Directory Presentazioni: Presetnazione in PowerPoint del progetto.
+  Directory htdocs.zip: Struttura completa del server.
+  Directory CreaJson.zip: Servlet per la lettura dei dati.
+  Directory Vacanze.sql: File del DB vacanza.
+  File Python: Convertitore Link-QRcode.
